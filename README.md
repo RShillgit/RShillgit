@@ -8,7 +8,7 @@ I am a self-taught full stack developer with a bachelor's of science<br>in exerc
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 
-# Favorite Repositories
+# Best Projects
 [![about-me-web](https://img.shields.io/badge/-Portfolio%20Website-blueviolet)](https://github.com/RShillgit/about-me-web) 
 [![Fakebook](https://img.shields.io/badge/-Fakebook-%231877f2)](https://github.com/RShillgit/Fakebook/) 
 [![Blog-Api](https://img.shields.io/badge/-Blog--Api-brightgreen)](https://github.com/RShillgit/Blog-Api/) 
