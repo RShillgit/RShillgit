@@ -12,7 +12,7 @@ I am a self-taught full stack developer with a bachelor's of science<br>in exerc
 [![about-me-web](https://img.shields.io/badge/-Portfolio%20Website-blueviolet)](https://github.com/RShillgit/about-me-web) 
 [![Fakebook](https://img.shields.io/badge/-Fakebook-%231877f2)](https://github.com/RShillgit/Fakebook/) 
 [![Food-Logger](https://img.shields.io/badge/-Food--Logger-yellow)](https://github.com/RShillgit/Food-Logger)
-[![Blog-Api](https://img.shields.io/badge/-Blog--Api-brightgreen)](https://github.com/RShillgit/Blog-Api/) 
+[![Chess](https://img.shields.io/badge/-Blog--Api-brightgreen)](https://github.com/RShillgit/Chess/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RShillgit&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
